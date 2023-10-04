@@ -142,7 +142,7 @@ export default {
       obtenerBugsUsuario() {
         if (this.userData && this.userData.username) {
           axios
-            .get(`https://json-server.firstrow2.com/bugs?username=${this.userData.username}`)
+            .get(`http://localhost:5000/bugs?username=${this.userData.username}`)
             .then((response) => {
               this.userBugs = response.data;
             })
@@ -153,7 +153,7 @@ export default {
       },
       eliminarBug(bugId) {
         axios
-          .delete(`https://json-server.firstrow2.com/bugs/${bugId}`)
+          .delete(`http://localhost:5000/bugs/${bugId}`)
           .then(() => {
             this.obtenerBugsUsuario();
             console.log(`Bug ${bugId} eliminado.`);
@@ -165,7 +165,7 @@ export default {
       obtenerComentariosUsuario() {
         if (this.userData && this.userData.username) {
           axios
-            .get(`https://json-server.firstrow2.com/comments?username=${this.userData.username}`)
+            .get(`http://localhost:5000/comments?username=${this.userData.username}`)
             .then((response) => {
               this.userComments = response.data;
               this.ordenarComentariosPorRespuestas();
@@ -178,7 +178,7 @@ export default {
       },
       eliminarComentario(commentId) {
         axios
-          .delete(`https://json-server.firstrow2.com/comments/${commentId}`)
+          .delete(`http://localhost:5000/comments/${commentId}`)
           .then(() => {
             this.obtenerComentariosUsuario();
             console.log(`Comentario ${commentId} eliminado.`);

@@ -63,14 +63,14 @@ export default {
     methods: {
       register() {
         // Comprobar si el nombre de usuario ya existe
-        axios.get(`https://json-server.firstrow2.com/users?username=${this.username}`)
+        axios.get(`http://localhost:5000/users?username=${this.username}`)
           .then((response) => {
             if (response.data.length > 0) {
               this.message = 'El nombre de usuario ya está en uso.';
               this.isSuccess = false;
             } else {
               // Comprobar si el correo electrónico ya existe
-              axios.get(`https://json-server.firstrow2.com/users?email=${this.email}`)
+              axios.get(`http://localhost:5000/users?email=${this.email}`)
                 .then((emailResponse) => {
                   if (emailResponse.data.length > 0) {
                     this.message = 'El correo electrónico ya está en uso.';
@@ -83,7 +83,7 @@ export default {
                       password: this.password,
                       admin: false
                     };
-                    axios.post('https://json-server.firstrow2.com/users', newUser)
+                    axios.post('http://localhost:5000/users', newUser)
                       .then(() => {
                         this.message = 'Registro exitoso!';
                         this.isSuccess = true;
@@ -106,7 +106,7 @@ export default {
           });
       },
       login() {
-        axios.get('https://json-server.firstrow2.com/users')
+        axios.get('http://localhost:5000/users')
           .then(response => {
             const users = response.data;
             const user = users.find(u => u.username === this.username && u.password === this.password);

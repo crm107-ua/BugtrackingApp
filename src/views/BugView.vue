@@ -65,7 +65,7 @@ export default {
   mounted() {
     // Llamada para obtener los detalles del bug
     axios
-      .get(`https://json-server.firstrow2.com/bugs/${this.id}`)
+      .get(`http://localhost:5000/bugs/${this.id}`)
       .then((response) => {
         this.bugData = response.data;
       })
@@ -75,7 +75,7 @@ export default {
 
     // Llamada separada para obtener los comentarios del bug
     axios
-      .get(`https://json-server.firstrow2.com/comments?bug=${this.id}`)
+      .get(`http://localhost:5000/comments?bug=${this.id}`)
       .then((response) => {
         this.comments = response.data;
       })
@@ -91,10 +91,10 @@ export default {
       // Asegúrate de que el usuario está autenticado antes de permitirle eliminar un comentario
       if (localStorage.getItem('isAuthenticated') === 'true') {
         axios
-          .delete(`https://json-server.firstrow2.com/comments/${commentId}`)
+          .delete(`http://localhost:5000/comments/${commentId}`)
           .then(() => {
             // Recargar los comentarios después de eliminar uno
-            return axios.get(`https://json-server.firstrow2.com/comments?bug=${this.id}`);
+            return axios.get(`http://localhost:5000/comments?bug=${this.id}`);
           })
           .then((response) => {
             this.comments = response.data;

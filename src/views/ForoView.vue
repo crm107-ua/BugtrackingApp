@@ -41,11 +41,11 @@
     mounted() {
       // Obtener el comentario principal
       axios
-        .get(`https://json-server.firstrow2.com/comments/${this.id}`)
+        .get(`http://localhost:5000/comments/${this.id}`)
         .then((response) => {
           this.mainComment = response.data;
           // Obtener el título del bug
-          return axios.get(`https://json-server.firstrow2.com/bugs/${this.mainComment.bug}`);
+          return axios.get(`http://localhost:5000/bugs/${this.mainComment.bug}`);
         })
         .then((response) => {
           this.bugId = response.data.id;
@@ -58,7 +58,7 @@
   
       // Obtener las respuestas del comentario principal
       axios
-        .get(`https://json-server.firstrow2.com/comments?response=${this.id}`)
+        .get(`http://localhost:5000/comments?response=${this.id}`)
         .then((response) => {
           this.responses = response.data;
         })

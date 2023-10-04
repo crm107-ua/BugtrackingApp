@@ -60,7 +60,7 @@ export default {
   },
   mounted() {
     axios
-      .get('https://json-server.firstrow2.com/bugs')
+      .get('http://localhost:5000/bugs')
       .then((response) => {
         this.bugs = response.data;
       })
@@ -87,7 +87,7 @@ export default {
     },
     eliminarBug(bugId) {
       axios
-        .delete(`https://json-server.firstrow2.com/bugs/${bugId}`)
+        .delete(`http://localhost:5000/bugs/${bugId}`)
         .then(() => {
           this.bugs = this.bugs.filter(bug => bug.id !== bugId);
           this.filteredBugs = this.filteredBugs.filter(bug => bug.id !== bugId);

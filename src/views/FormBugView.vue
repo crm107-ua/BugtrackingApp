@@ -53,7 +53,7 @@ created() {
 },
 methods: {
   loadBug() {
-    axios.get(`https://json-server.firstrow2.com/bugs/${this.id}`)
+    axios.get(`http://localhost:5000/bugs/${this.id}`)
       .then(response => {
         this.texto = response.data.texto;
         this.username = response.data.username;
@@ -69,7 +69,7 @@ methods: {
       texto: this.texto,
       closed: false
     };
-    axios.post('https://json-server.firstrow2.com/bugs', newBug)
+    axios.post('http://localhost:5000/bugs', newBug)
       .then(() => {
         this.message = 'Bug añadido exitosamente!';
         this.isSuccess = true;
@@ -85,7 +85,7 @@ methods: {
       texto: this.texto,
       closed: this.closed || false,
     };
-    axios.put(`https://json-server.firstrow2.com/bugs/${this.bugId}`, updatedBug)
+    axios.put(`http://localhost:5000/bugs/${this.bugId}`, updatedBug)
       .then(() => {
         this.message = 'Bug modificado exitosamente!';
         this.isSuccess = true;

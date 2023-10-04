@@ -12,7 +12,7 @@
     "bootstrap": "^5.3.2",
     "chart.js": "^4.4.0",
     "core-js": "^3.8.3",
-    "json-server": "^0.17.3",
+    "json-server": "^0.17.4",
     "mitt": "^3.0.1",
     "vue": "^3.2.13",
     "vue-native-websocket": "^2.0.15",

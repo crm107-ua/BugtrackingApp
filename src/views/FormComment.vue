@@ -38,7 +38,7 @@ export default {
         bug: parseInt(this.bugId),
         response: this.responseId ? parseInt(this.responseId) : 0
       };
-      axios.post('https://json-server.firstrow2.com/comments', newComment)
+      axios.post('http://localhost:5000/comments', newComment)
         .then(() => {
           this.message = 'Comentario añadido exitosamente!';
           this.isSuccess = true;
