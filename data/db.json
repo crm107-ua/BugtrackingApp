@@ -1,0 +1,7023 @@
+{
+  "users": [
+    {
+      "admin": true,
+      "username": "carlos",
+      "email": "carlos@carlos.es",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "dsds",
+      "email": "dsds@ffddfdf.es",
+      "password": "3232322323",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "username": "carlos1",
+      "email": "carlos1@carlos.es",
+      "password": "222121211212",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "admin": false,
+      "username": "dave",
+      "email": "dave@example.com",
+      "password": "pa$$w0rd",
+      "id": 4
+    },
+    {
+      "admin": true,
+      "username": "frank",
+      "email": "charlie@example.com",
+      "password": "letmein",
+      "id": 5
+    },
+    {
+      "admin": true,
+      "username": "frank",
+      "email": "alice@example.com",
+      "password": "pa$$w0rd",
+      "id": 6
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "judy@example.com",
+      "password": "pa$$w0rd",
+      "id": 7
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "grace@example.com",
+      "password": "pa$$w0rd",
+      "id": 8
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "dave@example.com",
+      "password": "letmein",
+      "id": 9
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "grace@example.com",
+      "password": "letmein",
+      "id": 10
+    },
+    {
+      "admin": false,
+      "username": "charlie",
+      "email": "ivy@example.com",
+      "password": "password",
+      "id": 11
+    },
+    {
+      "admin": false,
+      "username": "eve",
+      "email": "judy@example.com",
+      "password": "1234abcd",
+      "id": 12
+    },
+    {
+      "admin": true,
+      "username": "grace",
+      "email": "heidi@example.com",
+      "password": "pa$$w0rd",
+      "id": 13
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "judy@example.com",
+      "password": "12345678",
+      "id": 14
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "eve@example.com",
+      "password": "password",
+      "id": 15
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "alice@example.com",
+      "password": "password",
+      "id": 16
+    },
+    {
+      "admin": true,
+      "username": "frank",
+      "email": "alice@example.com",
+      "password": "pa$$w0rd",
+      "id": 17
+    },
+    {
+      "admin": true,
+      "username": "judy",
+      "email": "alice@example.com",
+      "password": "letmein",
+      "id": 18
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "heidi@example.com",
+      "password": "12345678",
+      "id": 19
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "grace@example.com",
+      "password": "12345678",
+      "id": 20
+    },
+    {
+      "admin": false,
+      "username": "alice",
+      "email": "alice@example.com",
+      "password": "12345678",
+      "id": 21
+    },
+    {
+      "admin": true,
+      "username": "eve",
+      "email": "alice@example.com",
+      "password": "pa$$w0rd",
+      "id": 22
+    },
+    {
+      "admin": true,
+      "username": "frank",
+      "email": "judy@example.com",
+      "password": "password",
+      "id": 23
+    },
+    {
+      "admin": false,
+      "username": "dave",
+      "email": "heidi@example.com",
+      "password": "1234abcd",
+      "id": 24
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "heidi@example.com",
+      "password": "12345678",
+      "id": 25
+    },
+    {
+      "admin": true,
+      "username": "alice",
+      "email": "dave@example.com",
+      "password": "1234abcd",
+      "id": 26
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "eve@example.com",
+      "password": "1234abcd",
+      "id": 27
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "eve@example.com",
+      "password": "pa$$w0rd",
+      "id": 28
+    },
+    {
+      "admin": false,
+      "username": "alice",
+      "email": "bob@example.com",
+      "password": "12345678",
+      "id": 29
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "frank@example.com",
+      "password": "12345678",
+      "id": 30
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "ivy@example.com",
+      "password": "12345678",
+      "id": 31
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "heidi@example.com",
+      "password": "password",
+      "id": 32
+    },
+    {
+      "admin": false,
+      "username": "ivy",
+      "email": "charlie@example.com",
+      "password": "pa$$w0rd",
+      "id": 33
+    },
+    {
+      "admin": true,
+      "username": "grace",
+      "email": "grace@example.com",
+      "password": "12345678",
+      "id": 34
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "charlie@example.com",
+      "password": "12345678",
+      "id": 35
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "frank@example.com",
+      "password": "pa$$w0rd",
+      "id": 36
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "judy@example.com",
+      "password": "pa$$w0rd",
+      "id": 37
+    },
+    {
+      "admin": true,
+      "username": "eve",
+      "email": "dave@example.com",
+      "password": "12345678",
+      "id": 38
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "charlie@example.com",
+      "password": "password",
+      "id": 39
+    },
+    {
+      "admin": true,
+      "username": "heidi",
+      "email": "frank@example.com",
+      "password": "12345678",
+      "id": 40
+    },
+    {
+      "admin": false,
+      "username": "judy",
+      "email": "eve@example.com",
+      "password": "letmein",
+      "id": 41
+    },
+    {
+      "admin": true,
+      "username": "grace",
+      "email": "grace@example.com",
+      "password": "pa$$w0rd",
+      "id": 42
+    },
+    {
+      "admin": false,
+      "username": "judy",
+      "email": "alice@example.com",
+      "password": "1234abcd",
+      "id": 43
+    },
+    {
+      "admin": false,
+      "username": "judy",
+      "email": "heidi@example.com",
+      "password": "letmein",
+      "id": 44
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "frank@example.com",
+      "password": "letmein",
+      "id": 45
+    },
+    {
+      "admin": false,
+      "username": "grace",
+      "email": "grace@example.com",
+      "password": "12345678",
+      "id": 46
+    },
+    {
+      "admin": true,
+      "username": "eve",
+      "email": "dave@example.com",
+      "password": "letmein",
+      "id": 47
+    },
+    {
+      "admin": true,
+      "username": "heidi",
+      "email": "alice@example.com",
+      "password": "password",
+      "id": 48
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "eve@example.com",
+      "password": "1234abcd",
+      "id": 49
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "dave@example.com",
+      "password": "12345678",
+      "id": 50
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "judy@example.com",
+      "password": "12345678",
+      "id": 51
+    },
+    {
+      "admin": true,
+      "username": "charlie",
+      "email": "grace@example.com",
+      "password": "pa$$w0rd",
+      "id": 52
+    },
+    {
+      "admin": false,
+      "username": "eve",
+      "email": "eve@example.com",
+      "password": "12345678",
+      "id": 53
+    },
+    {
+      "admin": true,
+      "username": "frank",
+      "email": "frank@example.com",
+      "password": "password",
+      "id": 54
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "judy@example.com",
+      "password": "1234abcd",
+      "id": 55
+    },
+    {
+      "admin": false,
+      "username": "charlie",
+      "email": "frank@example.com",
+      "password": "12345678",
+      "id": 56
+    },
+    {
+      "admin": true,
+      "username": "judy",
+      "email": "ivy@example.com",
+      "password": "password",
+      "id": 57
+    },
+    {
+      "admin": true,
+      "username": "eve",
+      "email": "heidi@example.com",
+      "password": "password",
+      "id": 58
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "judy@example.com",
+      "password": "12345678",
+      "id": 59
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "alice@example.com",
+      "password": "password",
+      "id": 60
+    },
+    {
+      "admin": true,
+      "username": "charlie",
+      "email": "grace@example.com",
+      "password": "1234abcd",
+      "id": 61
+    },
+    {
+      "admin": true,
+      "username": "alice",
+      "email": "ivy@example.com",
+      "password": "letmein",
+      "id": 62
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "judy@example.com",
+      "password": "pa$$w0rd",
+      "id": 63
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "eve@example.com",
+      "password": "letmein",
+      "id": 64
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "dave@example.com",
+      "password": "pa$$w0rd",
+      "id": 65
+    },
+    {
+      "admin": false,
+      "username": "ivy",
+      "email": "eve@example.com",
+      "password": "12345678",
+      "id": 66
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "dave@example.com",
+      "password": "pa$$w0rd",
+      "id": 67
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "judy@example.com",
+      "password": "pa$$w0rd",
+      "id": 68
+    },
+    {
+      "admin": true,
+      "username": "grace",
+      "email": "alice@example.com",
+      "password": "1234abcd",
+      "id": 69
+    },
+    {
+      "admin": false,
+      "username": "heidi",
+      "email": "eve@example.com",
+      "password": "letmein",
+      "id": 70
+    },
+    {
+      "admin": false,
+      "username": "ivy",
+      "email": "judy@example.com",
+      "password": "pa$$w0rd",
+      "id": 71
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "bob@example.com",
+      "password": "1234abcd",
+      "id": 72
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "bob@example.com",
+      "password": "pa$$w0rd",
+      "id": 73
+    },
+    {
+      "admin": true,
+      "username": "judy",
+      "email": "frank@example.com",
+      "password": "password",
+      "id": 74
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "grace@example.com",
+      "password": "pa$$w0rd",
+      "id": 75
+    },
+    {
+      "admin": true,
+      "username": "judy",
+      "email": "alice@example.com",
+      "password": "1234abcd",
+      "id": 76
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "bob@example.com",
+      "password": "letmein",
+      "id": 77
+    },
+    {
+      "admin": false,
+      "username": "eve",
+      "email": "frank@example.com",
+      "password": "letmein",
+      "id": 78
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "heidi@example.com",
+      "password": "1234abcd",
+      "id": 79
+    },
+    {
+      "admin": true,
+      "username": "bob",
+      "email": "grace@example.com",
+      "password": "pa$$w0rd",
+      "id": 80
+    },
+    {
+      "admin": true,
+      "username": "judy",
+      "email": "charlie@example.com",
+      "password": "letmein",
+      "id": 81
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "judy@example.com",
+      "password": "1234abcd",
+      "id": 82
+    },
+    {
+      "admin": false,
+      "username": "ivy",
+      "email": "judy@example.com",
+      "password": "1234abcd",
+      "id": 83
+    },
+    {
+      "admin": false,
+      "username": "eve",
+      "email": "frank@example.com",
+      "password": "12345678",
+      "id": 84
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "charlie@example.com",
+      "password": "password",
+      "id": 85
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "dave@example.com",
+      "password": "password",
+      "id": 86
+    },
+    {
+      "admin": false,
+      "username": "dave",
+      "email": "eve@example.com",
+      "password": "1234abcd",
+      "id": 87
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "charlie@example.com",
+      "password": "12345678",
+      "id": 88
+    },
+    {
+      "admin": true,
+      "username": "grace",
+      "email": "frank@example.com",
+      "password": "12345678",
+      "id": 89
+    },
+    {
+      "admin": true,
+      "username": "ivy",
+      "email": "ivy@example.com",
+      "password": "pa$$w0rd",
+      "id": 90
+    },
+    {
+      "admin": false,
+      "username": "alice",
+      "email": "grace@example.com",
+      "password": "letmein",
+      "id": 91
+    },
+    {
+      "admin": false,
+      "username": "bob",
+      "email": "eve@example.com",
+      "password": "pa$$w0rd",
+      "id": 92
+    },
+    {
+      "admin": false,
+      "username": "eve",
+      "email": "eve@example.com",
+      "password": "12345678",
+      "id": 93
+    },
+    {
+      "admin": false,
+      "username": "charlie",
+      "email": "eve@example.com",
+      "password": "pa$$w0rd",
+      "id": 94
+    },
+    {
+      "admin": true,
+      "username": "frank",
+      "email": "heidi@example.com",
+      "password": "12345678",
+      "id": 95
+    },
+    {
+      "admin": true,
+      "username": "judy",
+      "email": "heidi@example.com",
+      "password": "1234abcd",
+      "id": 96
+    },
+    {
+      "admin": false,
+      "username": "frank",
+      "email": "judy@example.com",
+      "password": "password",
+      "id": 97
+    },
+    {
+      "admin": false,
+      "username": "alice",
+      "email": "ivy@example.com",
+      "password": "12345678",
+      "id": 98
+    },
+    {
+      "admin": true,
+      "username": "dave",
+      "email": "bob@example.com",
+      "password": "1234abcd",
+      "id": 99
+    },
+    {
+      "admin": false,
+      "username": "judy",
+      "email": "charlie@example.com",
+      "password": "1234abcd",
+      "id": 100
+    },
+    {
+      "admin": false,
+      "username": "grace",
+      "email": "grace@example.com",
+      "password": "12345678",
+      "id": 101
+    },
+    {
+      "admin": false,
+      "username": "alice",
+      "email": "eve@example.com",
+      "password": "letmein",
+      "id": 102
+    },
+    {
+      "admin": false,
+      "username": "ivy",
+      "email": "dave@example.com",
+      "password": "password",
+      "id": 103
+    },
+    {
+      "username": "pepe",
+      "email": "pepe@pepee",
+      "password": "1234",
+      "admin": false,
+      "id": 104
+    }
+  ],
+  "bugs": [
+    {
+      "username": "dsds",
+      "texto": "Problema con la página de registro",
+      "closed": true,
+      "id": 2
+    },
+    {
+      "username": "dsds",
+      "texto": "Error al guardar los cambios",
+      "closed": true,
+      "id": 4
+    },
+    {
+      "id": 12,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 13,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 14,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 15,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 16,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 17,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 18,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 19,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 20,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 21,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 22,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 23,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 24,
+      "username": "alice",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 25,
+      "username": "ivy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 26,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 27,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 28,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 29,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 30,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 31,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 32,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 33,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 34,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 35,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 36,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 37,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 38,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 39,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 40,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 41,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 42,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 43,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 44,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 45,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 46,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 47,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 48,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 49,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 50,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 51,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 52,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 53,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 54,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 55,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 56,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 57,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 58,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 59,
+      "username": "bob",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 60,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 61,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 62,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 63,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 64,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 65,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 66,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 67,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 68,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 69,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 70,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 71,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 72,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 73,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 74,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 75,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 76,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 77,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 78,
+      "username": "judy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 79,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 80,
+      "username": "eve",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 81,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 82,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 83,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 84,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 85,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 86,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 87,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 88,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 89,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 90,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 91,
+      "username": "ivy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 92,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 93,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 94,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 95,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 96,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 97,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 98,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 99,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 100,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 101,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 102,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 103,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 104,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 105,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 106,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 107,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 108,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 109,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 110,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 111,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 112,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 113,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 114,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 115,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 116,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 117,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 118,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 119,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 120,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 121,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 122,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 123,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 124,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 125,
+      "username": "alice",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 126,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 127,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 128,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 129,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 130,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 131,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 132,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 133,
+      "username": "ivy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 134,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 135,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 136,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 137,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 138,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 139,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 140,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 141,
+      "username": "eve",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 142,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 143,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 144,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 145,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 146,
+      "username": "eve",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 147,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 148,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 149,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 150,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 151,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 152,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 153,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 154,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 155,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 156,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 157,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 158,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 159,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 160,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 161,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 162,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 163,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 164,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 165,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 166,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 167,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 168,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 169,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 170,
+      "username": "eve",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 171,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 172,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 173,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 174,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 175,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 176,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 177,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 178,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 179,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 180,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 181,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 182,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 183,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 184,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 185,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 186,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 187,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 188,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 189,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 190,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 191,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 192,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 193,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 194,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 195,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 196,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 197,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 198,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 199,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 200,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 201,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 202,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 203,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 204,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 205,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 206,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 207,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 208,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 209,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 210,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 211,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 212,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 213,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 214,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 215,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 216,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 217,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 218,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 219,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 220,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 221,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 222,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 223,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 224,
+      "username": "bob",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 225,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 226,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 227,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 228,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 229,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 230,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 231,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 232,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 233,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 234,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 235,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 236,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 237,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 238,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 239,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 240,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 241,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 242,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 243,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 244,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 245,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 246,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 247,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 248,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 249,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 250,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 251,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 252,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 253,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 254,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 255,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 256,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 257,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 258,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 259,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 260,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 261,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 262,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 263,
+      "username": "eve",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 264,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 265,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 266,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 267,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 268,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 269,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 270,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 271,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 272,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 273,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 274,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 275,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 276,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 277,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 278,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 279,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 280,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 281,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 282,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 283,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 284,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 285,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 286,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 287,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 288,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 289,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 290,
+      "username": "judy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 291,
+      "username": "eve",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 292,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 293,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 294,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 295,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 296,
+      "username": "bob",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 297,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 298,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 299,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 300,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 301,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 302,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 303,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 304,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 305,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 306,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 307,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 308,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 309,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 310,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 311,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 312,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 313,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 314,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 315,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 316,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 317,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 318,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 319,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 320,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 321,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 322,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 323,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 324,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 325,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 326,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 327,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 328,
+      "username": "bob",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 329,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 330,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 331,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 332,
+      "username": "eve",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 333,
+      "username": "judy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 334,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 335,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 336,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 337,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 338,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 339,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 340,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 341,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 342,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 343,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 344,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 345,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 346,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 347,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 348,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 349,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 350,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 351,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 352,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 353,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 354,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 355,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 356,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 357,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 358,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 359,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 360,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 361,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 362,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 363,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 364,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 365,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 366,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 367,
+      "username": "ivy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 368,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 369,
+      "username": "eve",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 370,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 371,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 372,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 373,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 374,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 375,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 376,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 377,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 378,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 379,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 380,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 381,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 382,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 383,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 384,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 385,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 386,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 387,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 388,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 389,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 390,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 391,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 392,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 393,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 394,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 395,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 396,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 397,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 398,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 399,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 400,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 401,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 402,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 403,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 404,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 405,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 406,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 407,
+      "username": "ivy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 408,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 409,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 410,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 411,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 412,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 413,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 414,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 415,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 416,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 417,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 418,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 419,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 420,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 421,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 422,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 423,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 424,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 425,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 426,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 427,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 428,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 429,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 430,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 431,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 432,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 433,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 434,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 435,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 436,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 437,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 438,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 439,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 440,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 441,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 442,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 443,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 444,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 445,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 446,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 447,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 448,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 449,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 450,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 451,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 452,
+      "username": "bob",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 453,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 454,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 455,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 456,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 457,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 458,
+      "username": "bob",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 459,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 460,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 461,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 462,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 463,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 464,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 465,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 466,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 467,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 468,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 469,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 470,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 471,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 472,
+      "username": "alice",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 473,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 474,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 475,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 476,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 477,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 478,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 479,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 480,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 481,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 482,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 483,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 484,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 485,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 486,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 487,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 488,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 489,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 490,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 491,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 492,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 493,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 494,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 495,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 496,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 497,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 498,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 499,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 500,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 501,
+      "username": "ivy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 502,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 503,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 504,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 505,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 506,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 507,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 508,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 509,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 510,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 511,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 512,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 513,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 514,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 515,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 516,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 517,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 518,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 519,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 520,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 521,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 522,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 523,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 524,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 525,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 526,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 527,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 528,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 529,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 530,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 531,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 532,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 533,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 534,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 535,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 536,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 537,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 538,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 539,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 540,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 541,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 542,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 543,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 544,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 545,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 546,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 547,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 548,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 549,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 550,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 551,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 552,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 553,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 554,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 555,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 556,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 557,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 558,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 559,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 560,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 561,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 562,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 563,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 564,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 565,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 566,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 567,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 568,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 569,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 570,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 571,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 572,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 573,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 574,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 575,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 576,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 577,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 578,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 579,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 580,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 581,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 582,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 583,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 584,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 585,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 586,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 587,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 588,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 589,
+      "username": "eve",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 590,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 591,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 592,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 593,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 594,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 595,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 596,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 597,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 598,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 599,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 600,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 601,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 602,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 603,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 604,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 605,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 606,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 607,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 608,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 609,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 610,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 611,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 612,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 613,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 614,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 615,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 616,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 617,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 618,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 619,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 620,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 621,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 622,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 623,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 624,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 625,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 626,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 627,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 628,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 629,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 630,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 631,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 632,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 633,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 634,
+      "username": "eve",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 635,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 636,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 637,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 638,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 639,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 640,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 641,
+      "username": "eve",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 642,
+      "username": "judy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 643,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 644,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 645,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 646,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 647,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 648,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 649,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 650,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 651,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 652,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 653,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 654,
+      "username": "bob",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 655,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 656,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 657,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 658,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 659,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 660,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 661,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 662,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 663,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 664,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 665,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 666,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 667,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 668,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 669,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 670,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 671,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 672,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 673,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 674,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 675,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 676,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 677,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 678,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 679,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 680,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 681,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 682,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 683,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 684,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 685,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 686,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 687,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 688,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 689,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 690,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 691,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 692,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 693,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 694,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 695,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 696,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 697,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 698,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 699,
+      "username": "bob",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 700,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 701,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 702,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 703,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 704,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 705,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 706,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 707,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 708,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 709,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 710,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 711,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 712,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 713,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 714,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 715,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 716,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 717,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 718,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 719,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 720,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 721,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 722,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 723,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 724,
+      "username": "bob",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 725,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 726,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 727,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 728,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 729,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 730,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 731,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 732,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 733,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 734,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 735,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 736,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 737,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 738,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 739,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 740,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 741,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 742,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 743,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 744,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 745,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 746,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 747,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 748,
+      "username": "frank",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 749,
+      "username": "alice",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 750,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 751,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 752,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 753,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 754,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 755,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 756,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 757,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 758,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 759,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 760,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 761,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 762,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 763,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 764,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 765,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 766,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 767,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 768,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 769,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 770,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 771,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 772,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 773,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 774,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 775,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 776,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 777,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 778,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 779,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 780,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 781,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 782,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 783,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 784,
+      "username": "dave",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 785,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 786,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 787,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 788,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 789,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 790,
+      "username": "frank",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 791,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 792,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 793,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 794,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 795,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 796,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 797,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 798,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 799,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 800,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 801,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 802,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 803,
+      "username": "alice",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 804,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 805,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 806,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 807,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 808,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 809,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 810,
+      "username": "dave",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 811,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 812,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 813,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 814,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 815,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 816,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 817,
+      "username": "eve",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 818,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 819,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 820,
+      "username": "grace",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 821,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 822,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 823,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 824,
+      "username": "bob",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 825,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 826,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 827,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 828,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 829,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 830,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 831,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 832,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 833,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 834,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 835,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 836,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 837,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 838,
+      "username": "alice",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 839,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 840,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 841,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 842,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 843,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 844,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 845,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 846,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 847,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 848,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 849,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 850,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 851,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 852,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 853,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 854,
+      "username": "alice",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 855,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 856,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 857,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 858,
+      "username": "bob",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 859,
+      "username": "bob",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 860,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 861,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 862,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 863,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 864,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 865,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 866,
+      "username": "eve",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 867,
+      "username": "judy",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 868,
+      "username": "alice",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 869,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 870,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 871,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 872,
+      "username": "frank",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 873,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 874,
+      "username": "bob",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 875,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 876,
+      "username": "bob",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 877,
+      "username": "grace",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 878,
+      "username": "charlie",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 879,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 880,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 881,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 882,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 883,
+      "username": "frank",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 884,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 885,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 886,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 887,
+      "username": "alice",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 888,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 889,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 890,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 891,
+      "username": "dave",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 892,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 893,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 894,
+      "username": "bob",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 895,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 896,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 897,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 898,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 899,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 900,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 901,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 902,
+      "username": "alice",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 903,
+      "username": "charlie",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 904,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 905,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 906,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 907,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 908,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 909,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 910,
+      "username": "alice",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 911,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 912,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 913,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 914,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 915,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 916,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 917,
+      "username": "frank",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 918,
+      "username": "dave",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 919,
+      "username": "judy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 920,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 921,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 922,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 923,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 924,
+      "username": "ivy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 925,
+      "username": "frank",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 926,
+      "username": "eve",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 927,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 928,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 929,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 930,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 931,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 932,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 933,
+      "username": "judy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 934,
+      "username": "judy",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 935,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 936,
+      "username": "eve",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 937,
+      "username": "bob",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 938,
+      "username": "frank",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 939,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 940,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 941,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 942,
+      "username": "judy",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 943,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 944,
+      "username": "eve",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 945,
+      "username": "alice",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 946,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 947,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 948,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 949,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 950,
+      "username": "judy",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 951,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 952,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 953,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 954,
+      "username": "judy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 955,
+      "username": "grace",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 956,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 957,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 958,
+      "username": "grace",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 959,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 960,
+      "username": "bob",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 961,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 962,
+      "username": "frank",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 963,
+      "username": "eve",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 964,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 965,
+      "username": "judy",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 966,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 967,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 968,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 969,
+      "username": "alice",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 970,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 971,
+      "username": "eve",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 972,
+      "username": "frank",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 973,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 974,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 975,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 976,
+      "username": "grace",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 977,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 978,
+      "username": "judy",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 979,
+      "username": "dave",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 980,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 981,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 982,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 983,
+      "username": "eve",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 984,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 985,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 986,
+      "username": "heidi",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 987,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 988,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 989,
+      "username": "dave",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 990,
+      "username": "grace",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 991,
+      "username": "grace",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 992,
+      "username": "ivy",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 993,
+      "username": "judy",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 994,
+      "username": "dave",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 995,
+      "username": "ivy",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 996,
+      "username": "charlie",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 997,
+      "username": "heidi",
+      "closed": false,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 998,
+      "username": "grace",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 999,
+      "username": "alice",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 1000,
+      "username": "dave",
+      "closed": false,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 1001,
+      "username": "grace",
+      "closed": true,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 1002,
+      "username": "grace",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 1003,
+      "username": "frank",
+      "closed": false,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 1004,
+      "username": "heidi",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 1005,
+      "username": "bob",
+      "closed": true,
+      "texto": "Unexpected error"
+    },
+    {
+      "id": 1006,
+      "username": "dave",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 1007,
+      "username": "charlie",
+      "closed": false,
+      "texto": "Bug in login page"
+    },
+    {
+      "id": 1008,
+      "username": "heidi",
+      "closed": true,
+      "texto": "UI glitch in dashboard"
+    },
+    {
+      "id": 1009,
+      "username": "dave",
+      "closed": true,
+      "texto": "Error in registration"
+    },
+    {
+      "id": 1010,
+      "username": "alice",
+      "closed": false,
+      "texto": "Performance issue"
+    },
+    {
+      "id": 1011,
+      "username": "judy",
+      "closed": true,
+      "texto": "Bug in login page"
+    },
+    {
+      "username": "carlos",
+      "texto": "asdsad",
+      "closed": false,
+      "id": 1014
+    },
+    {
+      "username": "carlos",
+      "texto": "dos",
+      "closed": true,
+      "id": 1015
+    },
+    {
+      "username": "carlos",
+      "texto": "sdfsdf",
+      "closed": false,
+      "id": 1016
+    },
+    {
+      "username": "carlos",
+      "texto": "sdfsdf",
+      "closed": false,
+      "id": 1017
+    },
+    {
+      "username": "carlos",
+      "texto": "sdfsdf",
+      "closed": false,
+      "id": 1018
+    },
+    {
+      "username": "carlos",
+      "texto": "sdfsdfsdfdsf",
+      "closed": true,
+      "id": 1019
+    },
+    {
+      "username": "carlos",
+      "texto": "adsads",
+      "closed": false,
+      "id": 1020
+    },
+    {
+      "username": "carlos",
+      "texto": "asdasd",
+      "closed": false,
+      "id": 1021
+    },
+    {
+      "username": "carlos",
+      "texto": "asdasdads",
+      "closed": false,
+      "id": 1022
+    },
+    {
+      "username": "carlos",
+      "texto": "asdasdadsasdasd",
+      "closed": false,
+      "id": 1023
+    },
+    {
+      "username": "carlos",
+      "texto": "dsaasd",
+      "closed": false,
+      "id": 1024
+    },
+    {
+      "username": "carlos",
+      "texto": "ads",
+      "closed": false,
+      "id": 1025
+    },
+    {
+      "username": "pepe",
+      "texto": "dfsdsf",
+      "closed": false,
+      "id": 1026
+    },
+    {
+      "username": "carlos",
+      "texto": "sdffds",
+      "closed": false,
+      "id": 1027
+    },
+    {
+      "username": "carlos",
+      "texto": "sdffds",
+      "closed": false,
+      "id": 1028
+    },
+    {
+      "username": "carlos",
+      "texto": "sfdsdf",
+      "closed": false,
+      "id": 1029
+    },
+    {
+      "username": "carlos",
+      "texto": "sfdsdf",
+      "closed": false,
+      "id": 1030
+    },
+    {
+      "username": "carlos",
+      "texto": "sdfsdf",
+      "closed": false,
+      "id": 1031
+    },
+    {
+      "username": "carlos",
+      "texto": "sdfsdfdsfsdf",
+      "closed": false,
+      "id": 1032
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "username": "alice",
+      "texto": "Error in registration",
+      "bug": 1014,
+      "response": 0
+    },
+    {
+      "id": 2,
+      "username": "alice",
+      "texto": "Error in registration",
+      "bug": 1014,
+      "response": 1
+    },
+    {
+      "id": 3,
+      "username": "alice",
+      "texto": "Error in registration",
+      "bug": 1014,
+      "response": 0
+    },
+    {
+      "username": "alice",
+      "texto": "adsasdasd",
+      "bug": 1014,
+      "response": 0,
+      "id": 10
+    },
+    {
+      "username": "alice",
+      "texto": "kkk",
+      "bug": 1014,
+      "response": 0,
+      "id": 11
+    },
+    {
+      "username": "alice",
+      "texto": "como mola",
+      "bug": 1014,
+      "response": 10,
+      "id": 13
+    },
+    {
+      "username": "alice",
+      "texto": "dsaasdasdadsasd",
+      "bug": 1014,
+      "response": 10,
+      "id": 14
+    },
+    {
+      "username": "alice",
+      "texto": "saassadsad",
+      "bug": 1014,
+      "response": 14,
+      "id": 15
+    },
+    {
+      "username": "carlos",
+      "texto": "sadsaddas",
+      "bug": 4,
+      "response": 20,
+      "id": 21
+    },
+    {
+      "username": "carlos",
+      "texto": "sadasdas",
+      "bug": 4,
+      "response": 20,
+      "id": 24
+    },
+    {
+      "username": "carlos",
+      "texto": "sadasdas",
+      "bug": 4,
+      "response": 20,
+      "id": 25
+    },
+    {
+      "username": "carlos",
+      "texto": "sadasdas",
+      "bug": 4,
+      "response": 20,
+      "id": 26
+    },
+    {
+      "username": "carlos",
+      "texto": "wtf",
+      "bug": 1014,
+      "response": 19,
+      "id": 27
+    },
+    {
+      "username": "carlos",
+      "texto": "dfssdf",
+      "bug": 4,
+      "response": 21,
+      "id": 28
+    },
+    {
+      "username": "carlos",
+      "texto": "dfssdf",
+      "bug": 4,
+      "response": 21,
+      "id": 29
+    },
+    {
+      "username": "carlos",
+      "texto": "asdadsadsasd",
+      "bug": 4,
+      "response": 24,
+      "id": 30
+    },
+    {
+      "username": "carlos",
+      "texto": "asdadsadsasd",
+      "bug": 4,
+      "response": 24,
+      "id": 31
+    },
+    {
+      "username": "carlos",
+      "texto": "asdadsadsasd",
+      "bug": 4,
+      "response": 24,
+      "id": 32
+    },
+    {
+      "username": "carlos",
+      "texto": "asdadsadsasd",
+      "bug": 4,
+      "response": 24,
+      "id": 33
+    },
+    {
+      "username": "carlos",
+      "texto": "lol",
+      "bug": 4,
+      "response": 25,
+      "id": 34
+    },
+    {
+      "username": "carlos",
+      "texto": "ytr",
+      "bug": 4,
+      "response": 0,
+      "id": 35
+    },
+    {
+      "username": "carlos",
+      "texto": "rytrtyr",
+      "bug": 4,
+      "response": 0,
+      "id": 36
+    },
+    {
+      "username": "carlos",
+      "texto": "dsfdfs",
+      "bug": 1014,
+      "response": 1,
+      "id": 37
+    }
+  ]
+}
