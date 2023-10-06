@@ -11,6 +11,10 @@ npm install json-server
 ### Run json database server locally
 ```
 json-server --watch data/db.json --port 5000
+```
+
+### Run app in node
+```
 npm run serve
 ```
 
