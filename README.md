@@ -8,7 +8,7 @@ npm install bootstrap
 npm install json-server
 ```
 
-### Compiles and hot-reloads for development
+### Run local json database server locally
 ```
 json-server --watch data/db.json --port 5000
 npm run serve
